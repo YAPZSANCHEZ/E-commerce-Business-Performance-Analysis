@@ -1,0 +1,9 @@
+order_id,order_date,product,category,price,quantity,region
+101,2024-01-05,Laptop,Electronics,55000,1,South
+102,2024-01-10,Headphones,Electronics,2000,2,North
+103,2024-02-12,T-Shirt,Fashion,800,3,West
+104,2024-02-20,Shoes,Fashion,2500,1,South
+105,2024-03-15,Mobile,Electronics,30000,1,East
+106,2024-03-18,Watch,Accessories,4500,2,North
+107,2024-04-10,Laptop,Electronics,55000,1,South
+108,2024-04-18,T-Shirt,Fashion,800,4,West
